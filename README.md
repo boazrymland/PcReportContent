@@ -1,13 +1,12 @@
 PcReportContent
 ===============
 
-Yii extension that provides a "report inappropriate content" widget that is connectable to your content types
+This extension provides a "report inappropriate content" widget that can be plugged to any "content type" on your Yii powered website.
 
-For more information, and for the sake of dDRY (Documentation "DRY" :-) -> Don't Repeat Yourself), please see
-the [Official Yii extenion page](http://www.yiiframework.com/extension/pcreportcontent/)
+Please see the full documentation at the [Official Yii extenion page](http://www.yiiframework.com/extension/pcreportcontent/)
 
 * @license:
- * Copyright (c) 2012, Boaz Rymland
+ * Copyright (c) 2012,2013,2014 Boaz Rymland
  * All rights reserved.
  * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the
  * following conditions are met:
